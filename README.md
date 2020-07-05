@@ -1,2 +1,2 @@
 # HackerRank_Solutions
-This repository contains solutions to the questions I have solvd on HackerRank. 
+This repository contains solutions to the questions I have solved on HackerRank. 
